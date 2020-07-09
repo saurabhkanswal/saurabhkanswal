@@ -1,5 +1,11 @@
 ### Hi there 👋
-##I'm Saurabh Kanswal, a pre-final year MCA student focused on building web application 💻
+I'm Saurabh Kanswal, a final year student focused on building web application 💻
+Currently, i'm doing Masters in Computer Application (MCA) from Graphic Era Hill University.
+
+
+📫 How to reach me: saurabhkanswal8101@gmail.com
+
+ 
 
 <!--
 **saurabhkanswal/saurabhkanswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
