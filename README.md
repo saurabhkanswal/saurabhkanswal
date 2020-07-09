@@ -3,9 +3,9 @@ I'm Saurabh Kanswal, a final year student focused on building web application �
 Currently, i'm doing Masters in Computer Application (MCA) from Graphic Era Hill University.
 
 
-📫 How to reach me: saurabhkanswal8101@gmail.com
-🧑‍💼 Linkedin: www.linkedin.com/in/saurabhkanswal
-ℹ️ Website: https://saurabhkanswal.tech
+- 📫 How to reach me: saurabhkanswal8101@gmail.com
+- 🧑‍💼 Linkedin: www.linkedin.com/in/saurabhkanswal
+-  ℹ️ Website: https://saurabhkanswal.tech
 
  
 
