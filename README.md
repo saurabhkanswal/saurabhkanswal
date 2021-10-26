@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Saurabh Kanswal, a final year student focused on building web application 💻
+I'm Saurabh Kanswal, a mobile app intern at https://quizizz.com/ .
 Currently, i'm doing Masters in Computer Application (MCA) from Graphic Era Hill University.
 
 
