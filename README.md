@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Saurabh Kanswal, a mobile app intern at https://quizizz.com/ .
-Currently, i'm doing Masters in Computer Application (MCA) from Graphic Era Hill University.
+I just completed my Masters in Computer Application (MCA) from Graphic Era Hill University.
 
 
 - 📫 How to reach me: saurabhkanswal8101@gmail.com
