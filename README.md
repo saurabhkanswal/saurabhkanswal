@@ -3,9 +3,9 @@ I'm Saurabh Kanswal, a mobile app intern at https://quizizz.com/ .
 I just completed my Masters in Computer Application (MCA) from Graphic Era Hill University.
 
 
+- ℹ️  Portfolio: http://frontendengineer.tech/
 - 📫 How to reach me: saurabhkanswal8101@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/saurabhkanswal
--  ℹ️  Website: http://frontendengineer.tech/
 
  
 
